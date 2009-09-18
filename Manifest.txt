@@ -1,0 +1,11 @@
+History.txt
+Manifest.txt
+PostInstall.txt
+README.rdoc
+Rakefile
+lib/csvobserver.rb
+script/console
+script/destroy
+script/generate
+test/test_csvobserver.rb
+test/test_helper.rb
